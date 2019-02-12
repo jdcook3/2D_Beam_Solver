@@ -1,6 +1,6 @@
 # 2D_Beam_Solver
 Matlab Function to draw, analyze, and solve deflections of a 2D Beam.
-UA CE 432 Project
+UA CE 432 Project (Fall 2016)
 
 Program Explained
 %Add high-level overview
